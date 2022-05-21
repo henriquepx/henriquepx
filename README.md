@@ -10,7 +10,6 @@ Student of Systems Analysis and Development. I am a Front-end developer with a f
 </p>
 
 <br>
-<br>
 
 <div align="center">
   <a href="https://github.com/henriquepx">
