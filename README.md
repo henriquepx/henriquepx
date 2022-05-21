@@ -1,4 +1,4 @@
-Olá, me chamo Henrique!
+Hello! I'm Henrique Pinheiro!
 =========================
 
 Graduando de Análise e Desenvolvimento de Sistemas no primeiro período. Sou um Desenvolvedor Front-end com foco em se tornar FullStack
