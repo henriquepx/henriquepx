@@ -13,8 +13,8 @@ Student of Systems Analysis and Development. I am a Front-end developer with a f
 
 <div align="center">
   <a href="https://github.com/henriquepx">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=henriquepx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquepx&layout=compact&langs_count=7&theme=dark"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=henriquepx&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquepx&layout=compact&langs_count=7&theme=light"/>
 </div>
  
 <br>
