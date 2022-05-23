@@ -1,11 +1,11 @@
 Hello! 👋
 =========================
 
--> My name is Henrique, 20 years old;
+🙋‍♂️ My name is Henrique, 20 years old;
 
--> I am currently a student of Systems Analysis and Development and also study through the Alura technology platform.
+💻 I am currently a student of Systems Analysis and Development and also study through the Alura technology platform.
 
--> I like the Front-end Web Development area but I am aiming to become a Fullstack.
+👨‍💻 I like the Front-end Web Development area but I am aiming to become a Fullstack.
 
 My skills:
 <p align="left">
