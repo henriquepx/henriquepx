@@ -1,10 +1,8 @@
 Hello! 👋
 =========================
 
-🙋‍♂️ My name is Henrique, 20 years old;
-
-💻 I am currently a student of Systems Analysis and Development and I also study at Alura technology platform.
-
+🙋‍♂️ My name is Henrique, 20 years old;<br>
+💻 I am currently a student of Systems Analysis and Development and I also study at Alura technology platform.<br>
 👨‍💻 I like the Front-end Web Development area but I am aiming to become a Fullstack.
 
 My skills:
@@ -13,8 +11,7 @@ My skills:
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-  
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a> 
 </p>
 
 <br>
