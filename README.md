@@ -3,10 +3,9 @@
 <h2>Hi :)</h2>
 <div align="left">
 <h3>- Henrique, Front-end Developer</h3>
-<p>- My name is Henrique Henrique from Brazil (🇧🇷). I'm a Junior Front-end Developer.</p>
-<p>- I have skills in HTML, CSS, Sass and JavaScript. Studying frameworks (React +) and always looking to improve my knowledge!</p>
-<p>- Student of Systems Analysis and Development at Centro Universitário Unicarioca.</p>
-
+<p>- I'm an undergraduate in System Analysis and development at Unicarioca</p>
+<p>- I'm a Junior Front-end Developer and I have skills in HTML, CSS, Sass and JavaScript. Currently, I'm Studying frameworks (React +). Besides that, I'm always looking for opportunities to improve my skills and knowledge.</p>
+ 
  <h3>Contact me:</h3> 
 <p align="left">
   <a href="#" alt="Gmail">
