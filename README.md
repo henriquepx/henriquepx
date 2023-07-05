@@ -9,7 +9,7 @@ I started studying and had a direct connection with Front-end development, since
 
 "Today's determination is tomorrow's success."
 
-<img align="right" width="280" min-width="200px" max-width="300px" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="250" min-width="200px" max-width="300px" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 Languages and Tools: 
 
 
