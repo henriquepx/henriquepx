@@ -9,11 +9,10 @@ I started studying and had a direct connection with Front-end development, since
 
 "Today's determination is tomorrow's success."
 
-<img align="right" width="250" min-width="200px" max-width="300px" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 Languages and Tools: 
 
 
-<div style="display: inline_block"><br>
+<div><br>
 
  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white"/>
  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
@@ -28,3 +27,6 @@ Languages and Tools:
  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
  
 </div>                                                                                                                               
+
+<br>
+<img width="250" min-width="200px" max-width="300px" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
