@@ -5,9 +5,9 @@ I am a Front-end Software Developer and am majoring in Systems Analysis and Deve
 <a href="https://www.linkedin.com/in/henriquepinheiroxavier/" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:henriquepinheiroxavier@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-I started studying and had a direct connection with Front-end development, since then I have done some projects and daily I try to improve myself more and more, learning and understanding that constant study is the key to success.
+My journey began with a keen interest in Front-end development, and since then, I've embarked on a series of projects to refine my skills. Every day, I strive to enhance my abilities through continuous learning, recognizing that unwavering dedication to learning is the cornerstone of achieving success.
 
-"Today's determination is tomorrow's success."
+"Today's determination is tomorrow's sucess."
 
 Languages and Tools: 
 
