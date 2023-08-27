@@ -5,12 +5,11 @@ I am a Front-end Software Developer and am majoring in Systems Analysis and Deve
 <a href="https://www.linkedin.com/in/henriquepinheiroxavier/" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:henriquepinheiroxavier@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-My journey began with a keen interest in Front-end development, and since then, I've embarked on a series of projects to refine my skills. Every day, I strive to enhance my abilities through continuous learning, recognizing that unwavering dedication to learning is the cornerstone of achieving success.
+<img width="300" align="right" min-width="200px" max-width="300px" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+My journey began with a keen interest in Front-end development, and since then, I've <br> embarked on a series of projects to refine my skills. Every day, I strive to enhance my <br> abilities through continuous learning, recognizing that unwavering dedication to learning <br> is the cornerstone of achieving success.
 
 "Today's determination is tomorrow's sucess."
-
-Languages and Tools: 
-
 
 <div><br>
 
@@ -29,4 +28,4 @@ Languages and Tools:
 </div>                                                                                                                               
 
 <br>
-<img width="250" min-width="200px" max-width="300px" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
