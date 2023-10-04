@@ -9,13 +9,13 @@ I am a Front-end Software Developer and am majoring in Systems Analysis and Deve
 
 My journey began with a keen interest in Front-end development, and since then, I've <br> embarked on a series of projects to refine my skills. Every day, I strive to enhance my <br> abilities through continuous learning, recognizing that unwavering dedication to learning <br> is the cornerstone of achieving success.
 
-"Today's determination is tomorrow's sucess."
+"Today's determination is tomorrow's success."
 
 <div><br>
 
- <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white"/>
  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white"/>
  <img src="https://img.shields.io/badge/styled--components-000000?style=for-the-badge&logo=styled-components&logoColor=white"/>
  <br>
  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
