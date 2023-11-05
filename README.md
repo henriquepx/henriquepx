@@ -24,7 +24,7 @@ My journey began with a keen interest in Front-end development, and since then, 
  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white"/>
  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
- <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=white"/>
  
 </div>                                                                                                                               
 
