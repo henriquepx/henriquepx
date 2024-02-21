@@ -1,31 +1,11 @@
-# Henrique Pinheiro
+# Henrique Pinheiro 
 
-I am a Front-end Software Developer and am majoring in Systems Analysis and Development at Centro Universitário Unicarioca.
+Desenvolvedor Front-end.
 
-<a href="https://www.linkedin.com/in/henriquepinheiroxavier/" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:henriquepinheiroxavier@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![Linkedin Badge](https://img.shields.io/badge/-Henrique%20Pinheiro-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquepinheiroxavier/)](https://www.linkedin.com/in/henriquepinheiroxavier/) 
+[![Gmail Badge](https://img.shields.io/badge/-henriquepinheiroxavier@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriquepinheiroxavier@gmail.com)](mailto:henriquepinheiroxavier@gmail.com)
 
-<img width="285" align="right" min-width="200px" max-width="300px" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+Graduando em Análise e Desenvolvimento de Sistemas. Apaixonado por explorar as possibilidades infinitas que a tecnologia oferece. A cada dia, me dedico a aprimorar minhas habilidades por meio do aprendizado contínuo, reconhecendo que a dedicação inabalável ao conhecimento é fundamental para alcançar o sucesso. Preparado
 
-My journey began with a keen interest in Front-end development, and since then, I've <br> embarked on a series of projects to refine my skills. Every day, I strive to enhance my <br> abilities through continuous learning, recognizing that unwavering dedication to learning <br> is the cornerstone of achieving success.
-
-"Today's determination is tomorrow's success."
-
-<div><br>
-
- <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
- <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white"/>
- <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white"/>
- <img src="https://img.shields.io/badge/styled--components-000000?style=for-the-badge&logo=styled-components&logoColor=white"/>
- <br>
- <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
- <img src="https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=white"/>
- <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white"/>
- <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
- <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white"/>
- <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
- 
-</div>                                                                                                                               
-
-<br>
+"A determinação de hoje é o sucesso de amanhã."
 
