@@ -1,6 +1,6 @@
 # Henrique Pinheiro 
 
-Fullstack Developer.
+Front-end Developer.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Henrique%20Pinheiro-539cdc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquepinheiroxavier/)](https://www.linkedin.com/in/henriquepinheiroxavier/) 
 [![Gmail Badge](https://img.shields.io/badge/-henriquepinheiroxavier@gmail.com-539cdc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriquepinheiroxavier@gmail.com)](mailto:henriquepinheiroxavier@gmail.com)
